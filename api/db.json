@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "this is so amazing",
+      "description": "yeah it is",
+      "id": 2
+    },
+    {
+      "title": "OBS",
+      "description": "streaming testing",
+      "userId": "115234612225610648447",
+      "id": 3
+    }
+  ]
+}
